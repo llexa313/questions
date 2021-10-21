@@ -1,0 +1,20 @@
+.Question h3,
+.Question .hidden {
+    display: none;
+}
+
+.Question p {
+    margin-bottom: 5px;
+}
+
+.Question .tags {
+    margin-left: 15px;
+}
+
+.Question .tag {
+    margin-left: 5px;
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
